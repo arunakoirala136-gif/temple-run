@@ -1,0 +1,6 @@
+{
+  "name": "Temple Escape 2D Runner",
+  "description": "A 2D side-scrolling endless runner game inspired by Temple Run with responsive jump and slide mechanics, chasing beast, procedural obstacles, coins, high score tracking, sound effects, and full Unity C# scripts export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
